@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/JacobSampsonGTT/JacobSampsonGTT/master/Assets/GitHub_Header.png)
+![Header image](https://raw.githubusercontent.com/JacobSampsonGTT/JacobSampsonGTT/main/Assets/GitHub_Header.png)
 
 I'm a recent grad from the University of Minnesota-Twin Cities working as a full stack developer.
 
